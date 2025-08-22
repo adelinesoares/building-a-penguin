@@ -117,8 +117,8 @@ body {
   border-radius: 50%;
 }
 
-.beak.top{
-  width:20%;
+.beak.top {
+  width: 20%;
   top: 60%;
   left: 40%;
 }
@@ -127,6 +127,12 @@ body {
   width: 16%;
   top: 65%;
   left: 42%;
+}
+
+.shirt {
+  font-size: 25px;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
 }
 
 .penguin-body {
