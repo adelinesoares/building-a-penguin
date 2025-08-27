@@ -168,6 +168,8 @@ body {
   width: 15%;
   height: 30%;
   background-color: orange;
+  border-radius: 50%;
+  top: 85%;
 }
 
 .left-mountain {
