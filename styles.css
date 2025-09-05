@@ -173,6 +173,15 @@ body {
   top: 85%;
 }
 
+.foot.left {
+  left: 25%;
+
+}
+
+.foot.right {
+  right: 25%;
+}
+
 .left-mountain {
   width: 300px;
   height: 300px;
