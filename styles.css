@@ -171,6 +171,7 @@ body {
   background-color: var(--penguin-picorna);
   border-radius: 50%;
   top: 85%;
+  z-index: -1;
 }
 
 .foot.left {
